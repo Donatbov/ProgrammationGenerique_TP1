@@ -2,6 +2,8 @@
 
 Le fil conducteur est l'écriture d'une classe pour représenter les images en niveaux de gris. on développera un certain nombre de services autour de ces images:
 
+
+
 -création d'image vide
 -lecture/écriture d'images PGM (le format le plus simple possible de stockage)
 -filtrage médian
